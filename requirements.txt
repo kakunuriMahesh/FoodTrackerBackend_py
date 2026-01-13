@@ -9,12 +9,15 @@ werkzeug==3.0.1
 # numpy>=1.24.0
 
 
-fastapi
-uvicorn
+Flask==3.0.0
+flask-cors==4.0.0
+Werkzeug==3.0.1
+
 ultralytics
 opencv-python-headless
-pillow
-python-multipart
-requests
-python-dotenv
+numpy
+
+gunicorn
+
+
 
