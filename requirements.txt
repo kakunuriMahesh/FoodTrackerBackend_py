@@ -1,16 +1,5 @@
 Flask==3.0.0
 flask-cors==4.0.0
-Pillow==10.1.0
-werkzeug==3.0.1
-# Add YOLO dependencies when ready:
-# ultralytics==8.0.0
-# torch>=2.0.0
-# torchvision>=0.15.0
-# numpy>=1.24.0
-
-
-Flask==3.0.0
-flask-cors==4.0.0
 Werkzeug==3.0.1
 
 ultralytics
