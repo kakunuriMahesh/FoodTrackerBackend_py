@@ -8,3 +8,13 @@ werkzeug==3.0.1
 # torchvision>=0.15.0
 # numpy>=1.24.0
 
+
+fastapi
+uvicorn
+ultralytics
+opencv-python-headless
+pillow
+python-multipart
+requests
+python-dotenv
+
